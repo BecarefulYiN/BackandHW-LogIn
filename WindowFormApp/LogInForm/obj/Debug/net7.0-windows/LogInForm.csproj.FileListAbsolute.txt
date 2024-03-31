@@ -1,0 +1,16 @@
+D:\OJT backend\WindowFormApp\LogInForm\obj\Debug\net7.0-windows\LogInForm.Form1.resources
+D:\OJT backend\WindowFormApp\LogInForm\obj\Debug\net7.0-windows\LogInForm.csproj.GenerateResource.cache
+D:\OJT backend\WindowFormApp\LogInForm\obj\Debug\net7.0-windows\LogInForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\OJT backend\WindowFormApp\LogInForm\obj\Debug\net7.0-windows\LogInForm.AssemblyInfoInputs.cache
+D:\OJT backend\WindowFormApp\LogInForm\obj\Debug\net7.0-windows\LogInForm.AssemblyInfo.cs
+D:\OJT backend\WindowFormApp\LogInForm\obj\Debug\net7.0-windows\LogInForm.csproj.CoreCompileInputs.cache
+D:\OJT backend\WindowFormApp\LogInForm\bin\Debug\net7.0-windows\LogInForm.exe
+D:\OJT backend\WindowFormApp\LogInForm\bin\Debug\net7.0-windows\LogInForm.deps.json
+D:\OJT backend\WindowFormApp\LogInForm\bin\Debug\net7.0-windows\LogInForm.runtimeconfig.json
+D:\OJT backend\WindowFormApp\LogInForm\bin\Debug\net7.0-windows\LogInForm.dll
+D:\OJT backend\WindowFormApp\LogInForm\bin\Debug\net7.0-windows\LogInForm.pdb
+D:\OJT backend\WindowFormApp\LogInForm\obj\Debug\net7.0-windows\LogInForm.dll
+D:\OJT backend\WindowFormApp\LogInForm\obj\Debug\net7.0-windows\refint\LogInForm.dll
+D:\OJT backend\WindowFormApp\LogInForm\obj\Debug\net7.0-windows\LogInForm.pdb
+D:\OJT backend\WindowFormApp\LogInForm\obj\Debug\net7.0-windows\LogInForm.genruntimeconfig.cache
+D:\OJT backend\WindowFormApp\LogInForm\obj\Debug\net7.0-windows\ref\LogInForm.dll
